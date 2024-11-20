@@ -1,0 +1,5 @@
+{
+  "ATtinycore": "http://drazzy.com/package_drazzy.com_index.json",
+  "seeed-boards": "https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json",
+  "esp32": "https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json"
+}
